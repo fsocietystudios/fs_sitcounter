@@ -37,7 +37,8 @@ In order to use this resource, you'll need:
 12. Edit the other information at the config as you wish.
 13. Simply add ``ensure fs_sitcounter`` inside your ``server.cfg``
 
-If you have done that correctly - Congratulations! You got the resource working properly!
+If you have done that correctly - Congratulations! You got the resource working properly! <br />
+**NOTE:** The data is stored under `server/data/data.json` and will update itself every 1 minute!
 
 ## <b>🆘 Wait.. But what if i need help?</b>
 - [My Discord server](https://discord.gg/fsociety) is a safe place to ask questions. I'll be more than glad to help in my free time!
