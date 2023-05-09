@@ -1,0 +1,11 @@
+{
+    "client_token": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "client_id": "123456789",
+    "client_activity": "💙 Your Server",
+    "guild_id": "123456789",
+    "easyadmin_reports_channel_id": "123456789",
+    "logs_channel_id": "123456789",
+    "embed_server_name": "💙 Your Server",
+    "embed_color": "#1E2494",
+    "embed_server_banner": "https://cdn.discordapp.com/attachments/983084726833270794/1105479510138290226/standard.gif"
+}
