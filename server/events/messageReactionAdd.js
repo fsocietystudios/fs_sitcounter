@@ -22,7 +22,7 @@ module.exports = {
         let counter = await client.data.total || 0;
 
         if (
-            messageReaction.message.channelId === client.config.easyadmin_reports_channel_id && 
+            messageReaction.message.channelId === client.config.reports_channel_id && 
             messageReaction.message.embeds.length >= 0
         ) {
             (counter) ? client.data.total = client.data.total + 1 : client.data.total = 1
