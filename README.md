@@ -42,3 +42,5 @@ If you have done that correctly - Congratulations! You got the resource working 
 
 ## <b>🆘 Wait.. But what if i need help?</b>
 - [My Discord server](https://discord.gg/fsociety) is a safe place to ask questions. I'll be more than glad to help in my free time!
+
+**Special thanks to: https://auto.creavite.co/fivem-banners for the free server banner!**
